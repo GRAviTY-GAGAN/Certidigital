@@ -1,0 +1,17 @@
+.batchDetailTable__certificate {
+    width: 100px;
+}
+
+.batchDetailTable__table {
+    width: 95%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.BatchDetailTable__csvBtnCont {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 2rem;
+}
