@@ -1,0 +1,35 @@
+{
+  "images": [
+    {
+      "name": "ft-web_16",
+      "id": 1,
+      "image": "https://i.pinimg.com/originals/6e/f2/75/6ef275185644ab0b53b74fb764686367.jpg"
+    },
+    {
+      "name": "ft-web_16",
+      "id": 2,
+      "image": "https://previews.123rf.com/images/andipanggeleng/andipanggeleng1706/andipanggeleng170600013/80860152-blank-certificate-template.jpg"
+    },
+    {
+      "name": "ft-web_16",
+      "id": 3,
+      "image": "https://img.freepik.com/free-vector/golden-colors-diploma_1020-426.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ft-web_13",
+      "image": "https://i.pinimg.com/736x/74/80/22/748022a9a37f3cbc181200ff48b97972.jpg"
+    },
+    {
+      "name": "ft-web_16",
+      "image": "https://i.pinimg.com/originals/6e/f2/75/6ef275185644ab0b53b74fb764686367.jpg",
+      "id": 5
+    },
+    {
+      "name": "ft-web_16",
+      "id": 6,
+      "image": "https://i.pinimg.com/originals/6e/f2/75/6ef275185644ab0b53b74fb764686367.jpg"
+    }
+  ],
+  "certificateFields": []
+}

@@ -1,0 +1,94 @@
+.templateDetailMainContainer {
+  height: 100vh;
+  /* background-color: red; */
+}
+
+.templateDetailContainer {
+  display: flex;
+  gap: 1%;
+  min-height: 75.7vh;
+  margin-top: 15px;
+  padding: 0 15px 0 15px;
+}
+
+.leftSideCertificateImageBox {
+  width: 60%;
+  /* background-color: wheat; */
+}
+
+.templateDetail__DownloadDetailBTNContainer {
+  display: inline;
+  justify-content: center;
+  margin: 0rem 1rem;
+}
+
+.rightSideDetailsContainer {
+  padding: 0 20px;
+  width: 39%;
+  /* background-color: aquamarine; */
+}
+
+.submitcsvDivContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 5%;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 320px) {
+  .templateDetailContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .leftSideCertificateImageBox {
+    width: 90%;
+    /* background-color: wheat; */
+  }
+
+  .rightSideDetailsContainer {
+    padding: 0 20px;
+    width: 90%;
+    /* background-color: aquamarine; */
+  }
+
+  .submitcsvDivContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+
+  .submitcsvDivContainer>* {
+    margin-bottom: 3%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 580px) {
+  .templateDetailContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .leftSideCertificateImageBox {
+    width: 90%;
+    /* background-color: wheat; */
+  }
+
+  .rightSideDetailsContainer {
+    padding: 0 20px;
+    width: 90%;
+    /* background-color: aquamarine; */
+  }
+
+  .submitcsvDivContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+
+  .submitcsvDivContainer>* {
+    margin-bottom: 3%;
+  }
+}

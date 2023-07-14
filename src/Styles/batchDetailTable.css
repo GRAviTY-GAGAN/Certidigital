@@ -1,0 +1,60 @@
+.batchDetailTable__certificate {
+    width: 100px;
+}
+
+.batchDetailTable__table {
+    width: 100%;
+    /* margin: auto; */
+    margin-top: 2rem;
+}
+
+.BatchDetailTable__mainCont {
+    display: flex;
+    padding: 1rem 3rem;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.BatchDetailTable__csvBtnCont {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BatchDetailTable__csvBtnMainCont {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.BatchDetailTable__ProgressCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 5px;
+    min-width: 170px;
+    margin-top: 4rem;
+    padding-bottom: 1.8rem;
+}
+
+.BatchDetailTable__Progress {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.BatchDetailTable__Progress>p {
+    font-weight: 600;
+
+}
+
+.BatchDetailTable__BtnAndTable {
+    width: 85%;
+    min-width: 700px;
+}
